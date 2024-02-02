@@ -9,7 +9,7 @@ import java.util.Scanner;
  *
  * @author dancye
  * @author Paul Bonenfant Jan 25, 2022 
- * @author Navedita Katoch Jan 24, 2024
+ * @author Numeth Handunpurage Jan 24, 2024
  */
 public class CardTrick {
     
@@ -62,7 +62,7 @@ public class CardTrick {
     /**
      * A simple method to print out personal information. Follow the instructions to 
      * replace this information with your own.
-     * @author Navedita Katoch Jan 24, 2024
+     * @author NNumeth Handunpurage Jan 24, 2024
      */
     private static void printInfo() {
     
@@ -73,8 +73,8 @@ public class CardTrick {
         System.out.println();
         
         System.out.println("My career ambitions:");
-        System.out.println("-- Be a cybersecurity enineer one day");
-        System.out.println("-- complete my program with full marks!");
+        System.out.println("-- Be a cybersecurity enineer one day. I am still trying for that");
+        System.out.println("-- complete my program with full marks!. I did 2 semesters well.");
         System.out.println();	
 
         System.out.println("My hobbies:");
